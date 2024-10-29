@@ -19,7 +19,7 @@ max_range = 10                                      # Предупреждени
 min_range = 3.9
 
 url = "https://api.libreview.ru"                    # API в России
-version = "4.2.1"
+version = "4.7.0"
 headers = {
     "product": "llu.android",
     "version": version,
